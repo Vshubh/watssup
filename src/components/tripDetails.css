@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+.det_trip{
+    width:95%;
+    margin:auto;
+    margin-top:20px;
+    border:solid whitesmoke;
+    background-color: #ffffff;
+}
+.inner-div{
+    background-color: #203040;
+    color:#ffffff;
+    padding-left: 5px;
+    height: 30px;
+}
+.table-div{
+    width:98%;
+    margin:auto;
+    margin-top:10px;
+}
+th {
+    background-color: #3cc6ed;
+    color: white;
+    padding-left:22px;
+    padding-right:22px;
+    text-align:center;
+    font-size: small;
+  }
+  th:last-child{
+      width:250px;
+  }
+  td{
+      text-align: center;
+  }
+  tr:hover{
+      background-color: #dbe7ed;
+  }
+  .table-div button{
+      background-color:#3cc6ed ;
+      border-radius: 4px;
+      color:#ffffff;
+      cursor: pointer;
+      text-align: center;
+      padding:5px;
+
+  }
+  #first_btn{
+      margin-right:10px;
+  }
+  #toggle-btn{
+      color:#ffffff;
+      float:right;
+      margin-right:20px;
+      font-weight: bold;
+      cursor: pointer;
+      
+  }
+  #total_km{
+      color:#676cf3;
+      margin-left:350px;
+      
+  }

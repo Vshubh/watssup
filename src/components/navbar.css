@@ -1,0 +1,32 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+.header{
+    background-color: #203040;
+    color:#ffffff;
+    padding:0.5rem;
+    width:100%;
+    position: fixed;
+    overflow:hiddeen;
+    top:0;
+  
+  }
+  img{
+      width:150px;
+  }
+  .btn{
+      float:right;
+      margin-right: 30px;
+      padding:5px;
+  }
+  .sidebar{
+    display: inline-block;
+      font-size:25px;
+      margin-right: 10px;
+      background:none;
+      border:none;
+     color:#ffffff;
+    cursor:pointer;
+}
