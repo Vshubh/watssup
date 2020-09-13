@@ -8,6 +8,7 @@ return (
     <img src={logo} alt="logo" />
     <button className="btn">Logout</button>
     <label>ha</label>
+    <label>kaka</label>
     </div>
     )
 }
