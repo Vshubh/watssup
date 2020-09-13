@@ -7,9 +7,8 @@ return (
     <button className="sidebar">&#9776;</button>
     <img src={logo} alt="logo" />
     <button className="btn">Logout</button>
-    <label>ha</label>
-    <label>kaka</label>
-    </div>
+<label>wait</label>
+</div>
     )
 }
 
