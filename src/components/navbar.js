@@ -7,7 +7,7 @@ return (
     <button className="sidebar">&#9776;</button>
     <img src={logo} alt="logo" />
     <button className="btn">Logout</button>
-<label>waiting</label>
+<label>wait1</label>
 </div>
     )
 }
