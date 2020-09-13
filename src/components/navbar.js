@@ -8,7 +8,7 @@ return (
     <img src={logo} alt="logo" />
     <button className="btn">Logout</button>
 <label>wait2</label>
-</div>
+
     )
 }
 
